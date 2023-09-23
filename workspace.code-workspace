@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Smaller Strings.C": "cpp"
+		}
+	}
+}
